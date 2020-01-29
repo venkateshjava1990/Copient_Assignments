@@ -1,0 +1,7 @@
+Country,Region,Saleschannel,Orderpriority,Itemtype,Orderdate,Orderid,Shipdate,Unitprice,Unitsold,Unitcost,Totalprofit,Totalrevenue,Totalcost
+Antigua and Barbuda,Central America and the Caribbean,Online,M,Baby Food,12/20/2013,957081544,1/11/2014,255.28,552,159.42,52914.72,140914.56,87999.84
+Panama,Central America and the Caribbean,Offline,C,Snacks,7/5/2010,301644504,7/26/2010,152.58,2167,97.44,119488.38,330640.86,211152.48
+Czech Republic,Europe,Offline,C,Beverages,9/12/2011,478051030,9/29/2011,47.45,4778,31.79,74823.48,226716.10,151892.62
+North Korea,Asia,Offline,L,Cereal,5/13/2010,892599952,6/15/2010,205.70,9016,117.11,798727.44,1854591.20,1055863.76
+Sri Lanka,Asia,Offline,C,Snacks,7/20/2015,571902596,7/27/2015,152.58,7542,97.44,415865.88,1150758.36,734892.48
+Morocco,Middle East and North Africa,Offline,L,Personal Care,11/8/2010,412882792,11/22/2010,81.73,48,56.67,1202.88,3923.04,2720.16
